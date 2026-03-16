@@ -3,13 +3,11 @@ title: "Contact Us"
 description: "Get in touch for truffle dog training or harvesting services"
 ---
 
-# Contact Us
-
 We'd love to hear from you. Whether you're interested in training your own truffle dog, or need help with harvesting, we're here to help.
 
 ## Get in Touch
 
-**Email:** hello@truffledogs.com.au  
+**Email:** truffles@erenityscentwork.com.au 
 **Phone:** 0400 000 000  
 **Location:** Southern Highlands & Tablelands, NSW
 
