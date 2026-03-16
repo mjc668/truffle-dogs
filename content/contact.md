@@ -7,7 +7,7 @@ We'd love to hear from you. Whether you're interested in training your own truff
 
 ## Get in Touch
 
-**Email:** truffles@erenityscentwork.com.au 
+**Email:** truffles@serenityscentwork.com.au  
 **Phone:** 0400 000 000  
 **Location:** Southern Highlands & Tablelands, NSW
 
