@@ -1,9 +1,9 @@
 /* Truffle Dogs Theme - Pastel Violet */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Pacifico&display=swap');
 
 :root { 
   font-family: 'Inter', sans-serif;
-  --font-heading: 'Playfair Display', serif;
+  --font-heading: 'Pacifico', cursive;
   --primary: #7B68A0;
   --secondary: #9683B8;
   --accent: #C9A9E0;
@@ -96,8 +96,7 @@ header {
 
 .site-title {
   font-family: var(--font-heading);
-  font-size: 1.75rem;
-  font-weight: 600;
+  font-size: 2rem;
   color: var(--primary);
 }
 
