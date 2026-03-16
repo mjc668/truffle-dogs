@@ -1,0 +1,15 @@
+baseURL = "https://serenitytrufflehunters.com.au/"
+languageCode = "en-au"
+title = "Serenity Truffle Hunters"
+theme = "truffledogs"
+
+[params]
+  description = "Professional truffle dog training and harvesting services. Building confident, reliable truffle dog teams in NSW Southern Highlands & Tablelands."
+  subtitle = "Scientifically sound, practically effective truffle dog training"
+  author = "Your Name"
+  email = "hello@truffledogs.com.au"
+  phone = "0400 000 000"
+  location = "Southern Highlands & Tablelands, NSW"
+
+[markup.goldmark.renderer]
+  unsafe = true
