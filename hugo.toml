@@ -2,6 +2,7 @@ baseURL = "https://mjc668.github.io/truffle-dogs/"
 languageCode = "en-au"
 title = "Serenity Truffle Hunters"
 theme = "truffledogs"
+canonifyURLs = true
 
 [params]
   description = "Professional truffle dog training and harvesting services. Building confident, reliable truffle dog teams in NSW Southern Highlands & Tablelands."
