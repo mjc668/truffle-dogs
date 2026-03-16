@@ -19,7 +19,7 @@ We'd love to hear from you. Whether you're interested in training your own truff
 
 Use the form below to send us an inquiry. We'll get back to you as soon as possible.
 
-<form action="https://formspree.io/f/xvzwwzpq" method="POST">
+<form action="https://formspree.io/f/xvzwwzpq" method="POST" data-recaptcha="true">
   <label>
     Your Name
     <input type="text" name="name" required>
