@@ -3,8 +3,6 @@ title: "Our Services"
 description: "Professional truffle dog training and harvesting services"
 ---
 
-# Services
-
 ## Training Services
 
 ### Truffle Dog Foundation Training

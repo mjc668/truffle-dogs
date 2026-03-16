@@ -3,8 +3,6 @@ title: "Our Dogs"
 description: "Meet our trained truffle dogs"
 ---
 
-# Our Dogs
-
 Meet the talented canine team behind our truffle detection services. Each dog has been carefully trained using positive, reward-based methods.
 
 ## The Team

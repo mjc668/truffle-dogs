@@ -3,8 +3,6 @@ title: "Gallery"
 description: "Photo gallery of our truffle dogs at work"
 ---
 
-# Gallery
-
 A collection of photos from our truffle dogs in action.
 
 <div class="gallery">

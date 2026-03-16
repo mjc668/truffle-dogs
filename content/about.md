@@ -3,8 +3,6 @@ title: "About Us"
 description: "Learn about our truffle dog training expertise"
 ---
 
-# About Truffle Dogs
-
 We are passionate about helping dogs and their owners build amazing partnerships through truffle detection training.
 
 ## Our Approach
